@@ -10,4 +10,7 @@ public class Check {
 	public void dummy2() {
 		System.out.println("Dummy Check2");
 	}
+	public void dummy3() {
+		System.out.println("Dummy Check3");
+	}
 }
